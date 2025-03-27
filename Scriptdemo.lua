@@ -1,4 +1,4 @@
-loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V2/refs/heads/main/UiREDzV2.lua")))()
+loadstring(game:HttpGet(("https://github.com/minhfansub/hack-c-a-minhfansub/blob/main/Scriptdemo.lua")))()
 
        local Window = MakeWindow({
          Hub = {
