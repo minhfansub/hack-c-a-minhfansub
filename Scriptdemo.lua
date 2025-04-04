@@ -1,6 +1,4 @@
-loadstring(game:HttpGet(("https://github.com/minhfansub/hack-c-a-minhfansub/blob/main/Scriptdemo.lua")))()
-
-       local Window = MakeWindow({
+local Window = MakeWindow({
          Hub = {
          Title = "Minhfansub",
          Animation = "facebook: Minhfansub"
